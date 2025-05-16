@@ -19,7 +19,7 @@ An interactive grid-based heatmap that visualizes spatial relationships using at
 4. Click "Clear" to reset
 
 ## Live Demo
-[Try it here!](https://your-username.github.io/Proximity-Heatmap-Tool)
+[Try it here!](https://doubl-u.github.io/Proximity-Heatmap-Tool)
 
 ## Installation
 ```bash
