@@ -2,7 +2,7 @@
 
 An interactive grid-based heatmap that visualizes spatial relationships using attractor/repeller mechanics. Built with vanilla JavaScript.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Proximity+Heatmap+Demo) *(replace with actual screenshot)*
+![Screenshot](https://github.com/user-attachments/assets/928f7f2d-c771-4e48-ac1e-803e64d9652c)
 
 ## Key Features
 - **Dynamic Heatmaps**: Real-time color gradients (red → blue) reflect proximity values
